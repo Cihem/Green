@@ -1,0 +1,37 @@
+.signup-button {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    border: white;
+    height: 30px;
+    width: 140px;
+    font-size: 10px;
+    margin-right: 20px;
+   
+    
+}
+
+.login-button {
+    border-radius: 20px;
+    background-color: lightgray;
+    color: black;
+    border: black;
+    height: 30px;
+    width: 140px;
+    font-size: 10px;
+   
+    
+}
+
+.login-container {
+   
+   text-align: center;
+   align-items: center;
+   flex-direction: row;
+   position: absolute;
+   top: 45%;
+   left: 40%
+  
+  
+    
+}

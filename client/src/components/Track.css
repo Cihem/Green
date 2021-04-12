@@ -1,0 +1,36 @@
+.numberCircle {
+    border-radius: 50%;
+    width: 176px;
+    height: 176px;
+    padding: 30px;
+
+    background: rgb(26, 77, 43);
+    border: 10px solid rgb(87, 136, 87);
+    color: rgb(247, 241, 241);
+    text-align: center;
+    margin-bottom: 10px;
+
+    /* font: 32px Arial, sans-serif; */
+}
+
+.circle {
+    flex-direction: row;
+}
+
+.track-container {
+   position: absolute;
+    top: 23%;
+    left: 45%
+}
+
+.track-title {
+    color: rgb(132, 238, 167); ;
+}
+
+.header-container {
+
+    position: absolute;
+    top: 5%;
+    left: 39%
+
+}

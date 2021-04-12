@@ -1,0 +1,13 @@
+.settings {
+    position: absolute;
+    top:45%;
+    left: 42%;
+    font-size: 25px;
+   
+
+}
+
+.settings-nav {
+    text-decoration: none;
+    color: black
+}
