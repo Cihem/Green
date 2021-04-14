@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-green-dev-153112-authRole",
+      "UnauthRoleArn": "arn:aws:iam::005498021518:role/amplify-green-dev-153112-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::005498021518:role/amplify-green-dev-153112-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-green-dev-153112-deployment",
+      "UnauthRoleName": "amplify-green-dev-153112-unauthRole",
+      "StackName": "amplify-green-dev-153112",
+      "StackId": "arn:aws:cloudformation:us-east-1:005498021518:stack/amplify-green-dev-153112/11824aa0-9d2e-11eb-aae4-0abf94ca9997"
+    }
+  }
+}
